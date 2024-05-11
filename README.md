@@ -2,7 +2,7 @@
 
 ---
 
-[服务检查检测脚本](checkTelnet.sh)
+[服务健康检测脚本](checkTelnet.sh)
 
  ### Quick Start
 
